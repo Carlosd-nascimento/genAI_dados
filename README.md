@@ -1,4 +1,4 @@
-# 📘 Caderno Temático – Educação Financeira Básica
+# 📘 NOTEBOOKLM – Educação Financeira Básica
 
 ## 🎯 1. Tema Escolhido
 Educação Financeira Básica
